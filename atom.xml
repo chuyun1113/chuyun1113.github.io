@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/chuyun1113/chuyun.github.io</id>
+    <id>https://chuyun.github.io</id>
     <title>椉云居士的博客</title>
-    <updated>2020-10-07T16:48:14.123Z</updated>
+    <updated>2020-10-07T23:46:20.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/chuyun1113/chuyun.github.io"/>
-    <link rel="self" href="https://github.com/chuyun1113/chuyun.github.io/atom.xml"/>
+    <link rel="alternate" href="https://chuyun.github.io"/>
+    <link rel="self" href="https://chuyun.github.io/atom.xml"/>
     <subtitle>相顾无言，惟有泪千行。</subtitle>
-    <logo>https://github.com/chuyun1113/chuyun.github.io/images/avatar.png</logo>
-    <icon>https://github.com/chuyun1113/chuyun.github.io/favicon.ico</icon>
+    <logo>https://chuyun.github.io/images/avatar.png</logo>
+    <icon>https://chuyun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 椉云居士的博客</rights>
     <entry>
         <title type="html"><![CDATA[眼神]]></title>
-        <id>https://github.com/chuyun1113/chuyun.github.io/post/yan-shen/</id>
-        <link href="https://github.com/chuyun1113/chuyun.github.io/post/yan-shen/">
+        <id>https://chuyun.github.io/post/yan-shen/</id>
+        <link href="https://chuyun.github.io/post/yan-shen/">
         </link>
         <updated>2020-10-07T16:47:23.000Z</updated>
         <content type="html"><![CDATA[<p>我不做恩师老刘的学生已有一些时日了，我最不能忘记的是他的眼神光。秋夏之交的时候，学校搞了一手分班。分班那天下午来到学校，看见临时安置我们的教室门口贴着的大红打印纸上印的“七（20）班”寥寥几字和房间里乱糟糟的全班同学，又想起往日和老刘合作管制这帮家伙的事和其他的种种，不禁簌簌地留下眼泪。好友劝说，“事已至此，再伤心也没有用，只能看初三的运气能否再遇了。”我知道，他也是心中不好受，有心无力罢了。<br>
@@ -27,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/chuyun1113/chuyun.github.io/post/hello-gridea/</id>
-        <link href="https://github.com/chuyun1113/chuyun.github.io/post/hello-gridea/">
+        <id>https://chuyun.github.io/post/hello-gridea/</id>
+        <link href="https://chuyun.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
