@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/chuyun1113/chuyun.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-10-07T13:37:48.811Z</updated>
+    <title>椉云居士的博客</title>
+    <updated>2020-10-07T15:06:27.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/chuyun1113/chuyun.github.io"/>
     <link rel="self" href="https://github.com/chuyun1113/chuyun.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>相顾无言，惟有泪千行。</subtitle>
     <logo>https://github.com/chuyun1113/chuyun.github.io/images/avatar.png</logo>
     <icon>https://github.com/chuyun1113/chuyun.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[wafsdf]]></title>
-        <id>https://github.com/chuyun1113/chuyun.github.io/post/wafsdf/</id>
-        <link href="https://github.com/chuyun1113/chuyun.github.io/post/wafsdf/">
-        </link>
-        <updated>2020-10-07T13:30:37.000Z</updated>
-        <content type="html"><![CDATA[<p>fsavasdcawd</p>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2020, 椉云居士的博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://github.com/chuyun1113/chuyun.github.io/post/hello-gridea/</id>
